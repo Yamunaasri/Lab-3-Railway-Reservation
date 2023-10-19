@@ -18,7 +18,26 @@ phones.
 of the online bus ticket system is to provide another way for transnational customers to buy
 their tickets.
 ### UML DIAGRAMS:
+### USE CASE DIAGRAM
+![Screenshot 2023-10-19 113852](https://github.com/Yamunaasri/Lab-3-Railway-Reservation/assets/115707860/8e5d6cad-3228-4233-9450-d969c6766c44)
 
+### SEQUENCE DIAGRAM
+![Screenshot 2023-10-19 113919](https://github.com/Yamunaasri/Lab-3-Railway-Reservation/assets/115707860/b34bc7ea-642b-453a-8f18-242172a5c84b)
+
+### STATE CHART DIAGRAM
+![Screenshot 2023-10-19 113953](https://github.com/Yamunaasri/Lab-3-Railway-Reservation/assets/115707860/737d2f1f-f6d2-461a-a65d-28859da8245d)
+
+### ACTIVITY DIAGRAM
+![Screenshot 2023-10-19 114016](https://github.com/Yamunaasri/Lab-3-Railway-Reservation/assets/115707860/c3794c3e-2be8-4e03-b662-f9be0021d8ed)
+
+### CLASS DIAGRAM
+![Screenshot 2023-10-19 114040](https://github.com/Yamunaasri/Lab-3-Railway-Reservation/assets/115707860/d4aa3afb-d4f8-459e-b7bd-1977b32bdb56)
+
+### COMMUNICATION DIAGRAM
+![Screenshot 2023-10-19 114109](https://github.com/Yamunaasri/Lab-3-Railway-Reservation/assets/115707860/213cac7c-11fa-4ec1-854a-a805a8dce991)
+
+### PACKAGE DIAGRAM
+![Screenshot 2023-10-19 114151](https://github.com/Yamunaasri/Lab-3-Railway-Reservation/assets/115707860/a27dd065-5c91-41de-b925-1ec8dec4b02f)
 
 
 ### RESULT:
